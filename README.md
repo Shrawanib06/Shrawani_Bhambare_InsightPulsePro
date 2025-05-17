@@ -97,6 +97,8 @@ Next Themes – Theme switching
 
 ## Screenshots
 
-![Screenshot 2025-05-17 110931](https://github.com/user-attachments/assets/cc7a050e-ddc4-4f53-866b-215aed5b375c)
+![Screenshot 2025-05-17 110931](https://github.com/user-attachments/assets/d2b0c291-4706-4a6c-baf1-ea064649d869)
+![Screenshot 2025-05-17 111051](https://github.com/user-attachments/assets/3ebfe67f-6214-4e88-95eb-e8ff635eefd3)
 
-![Screenshot 2025-05-17 111051](https://github.com/user-attachments/assets/c75df5d8-7cc0-4182-b7ab-7ea20efd24e2)
+
+
