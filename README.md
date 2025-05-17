@@ -1,20 +1,32 @@
-# Welcome to your EzSite project
+# Shrawani_Bhambare_InsightPulsePro
 
-A clean, modern React template with TypeScript, Vite, TailwindCSS, and ShadCN UI components. This template provides a solid foundation for building web applications with best practices in mind.
+## InsightPulse Pro
 
-## Tech Features
+InsightPulse Pro is a modern, responsive web application designed to present insightful data and analysis through a sleek and interactive user interface. Built with React, Tailwind CSS, and powered by Vite, it leverages a robust component system and state management for scalability and ease of use.
 
-- ⚡️ **Vite** - Lightning fast build tool
-- 🔥 **React 18** - Latest React features
-- 🧩 **TypeScript** - Type safety for better developer experience
-- 🎨 **TailwindCSS** - Utility-first CSS framework
-- 🧰 **ShadCN UI** - Accessible and customizable UI components
-- 📱 **Responsive Design** - Mobile-first approach
-- 🧭 **React Router** - Easy client-side routing
-- 🔄 **React Query** - Data fetching and state management
-- 🧪 **Form Handling** - React Hook Form with Zod validation
+## Project Overview
 
-## Getting Started
+This project serves as a front-end template or dashboard system ideal for building admin panels, analytical platforms, or enterprise-level interfaces. It incorporates powerful UI patterns, rich forms, data visualizations, and interactive components using modern libraries.
+
+## Architecture Diagram
+
+React + TypeScript (UI Layer)
+
+│
+
+├── Radix UI (Component Library)
+
+├── Zustand (State Management)
+
+├── React Router DOM (Routing)
+
+├── Recharts (Data Visualization)
+
+├── React Hook Form + Zod (Forms & Validation)
+
+└── Tailwind CSS (Styling) + Tailwind Merge/Animate
+
+## Setup and Deployment Instructions
 
 ### Prerequisites
 
@@ -25,8 +37,8 @@ A clean, modern React template with TypeScript, Vite, TailwindCSS, and ShadCN UI
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/react-template-project.git
-cd react-template-project
+git clone https://github.com/Shrawanib06/Shrawani_Bhambare_InsightPulsePro.git
+cd Shrawani_Bhambare_InsightPulsePro
 ```
 
 2. Install dependencies:
@@ -47,35 +59,6 @@ yarn dev
 pnpm dev
 ```
 
-4. Open your browser and visit `http://localhost:5173`
-
-## Project Structure
-
-```
-react-template-project/
-├── public/              # Static assets
-│   ├── components/      # Reusable components
-│   │   └── ui/          # UI components from ShadCN
-│   ├── hooks/           # Custom React hooks
-│   ├── lib/             # Utility functions and libraries
-│   ├── pages/           # Page components
-│   ├── App.tsx          # Main application component
-│   ├── index.css        # Global styles
-│   └── main.tsx         # Application entry point
-├── .gitignore
-├── package.json         # Project dependencies and scripts
-├── tailwind.config.ts   # TailwindCSS configuration
-├── tsconfig.json        # TypeScript configuration
-└── vite.config.ts       # Vite configuration
-```
-
-## Customization
-
-- **Styling**: Modify `tailwind.config.ts` to customize your design tokens
-- **Components**: Add or modify components in the `src/components` directory
-- **Pages**: Create new pages in the `src/pages` directory
-- **Routing**: Update routes in `src/App.tsx`
-
 ## Building for Production
 
 ```bash
@@ -86,4 +69,38 @@ yarn build
 pnpm build
 ```
 
-The built files will be in the `dist` directory, ready to be deployed.
+## Technologies Used
+
+React – UI library
+
+TypeScript – Type-safe development
+
+Tailwind CSS – Utility-first CSS framework
+
+Vite – Lightning-fast bundler
+
+Zustand – Lightweight global state management
+
+Zod + React Hook Form – Form validation
+
+Radix UI – Unstyled accessible components
+
+Recharts – Charting and visualization
+
+React Router DOM – SPA routing
+
+Date-fns – Date handling utilities
+
+Lucide React – Icon system
+
+Sonner – Toast notification system
+
+Embla Carousel – Custom carousels
+
+Next Themes – Theme switching
+
+## Screenshots
+
+![Screenshot 2025-05-17 110931](https://github.com/user-attachments/assets/58153984-60fb-43f1-a5d9-e5b345342061)
+
+![Screenshot 2025-05-17 111051](https://github.com/user-attachments/assets/eca7fb42-3c25-458f-a8a3-90ff9885a28c)
